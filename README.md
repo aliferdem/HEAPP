@@ -1,4 +1,4 @@
-![HEAPP Preview](https://github.com/user-attachments/assets/07fe7fc2-15a9-4a43-aa82-3ac1815b62f4)
+![HEAPP Preview](https://github.com/user-attachments/assets/ea4d4e68-d7d8-4ce7-97d7-a3fc58c883dc)
 
 HEA Phase Predictor
 ====================
